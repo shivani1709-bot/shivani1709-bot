@@ -1,19 +1,81 @@
+# 👋 Hi, I’m Shivani Mandora
 
-# 💫 About Me:
-I’m Shivani Mandora, a Senior Software Engineer with 7+ years of experience building<br>scalable backend systems using Python, Django, and FastAPI. I specialize in<br>designing data-driven solutions, integrating APIs, and optimizing microservices for<br>cloud platforms like AWS and GCP. Currently pursuing an M.S. in Artificial<br>Intelligence with a focus on Data Analytics, I aim to bridge software engineering and<br>machine learning to build intelligent automation systems.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-mandora-671b8691) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanimandora@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivani1709-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivani1709-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1709-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Senior Python Developer | Backend Engineer | AI/ML Enthusiast**  
+📍 Chicago, Illinois, USA  
+💌 [shivanimandora@gmail.com](mailto:shivanimandora@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivani-mandora-671b8691/) | [Portfolio](https://shivani1709-bot.github.io/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivani1709-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I’m a results-driven software engineer with 7+ years of experience building **scalable backend systems** and **data-driven solutions** using Python, FastAPI, Django, and cloud platforms (AWS/GCP).  
+Currently pursuing an **M.S. in Artificial Intelligence (Data Analytics)** — bridging software engineering and intelligent automation.
+
+I’m passionate about **turning data into decisions**, designing clean APIs, and optimizing performance in distributed systems.
+
+---
+
+## 🧠 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **🔗 Cloud Integration APIs – Verizon** | Built and deployed REST APIs integrating CloudBlue Marketplace with Verizon’s MyBiz/B360, enabling SaaS onboarding and subscription automation. | `FastAPI` • `Docker` • `PostgreSQL` • `Microservices` |
+| **📊 Sales Intelligence Microservices – Hypersonix** | Designed sales/consumer analytics features; optimized query pipelines, reducing latency by ~30%. | `Django` • `Celery` • `Pandas` • `GCP` |
+| **💼 Australian Income Insights (Academic)** | Cleaned and visualized census data using Excel & Power Query; delivered dashboards and statistical summaries. | `Excel` • `Power Query` • `Statistics` |
+| **🏏 ODI Cricket Analytics (2002–2023)** | Analyzed 10+ years of match data to derive player KPIs and performance trends; automated insights in Excel. | `Excel` • `Python` • `Data Visualization` |
+| **⚙️ REST API Template (FastAPI)** | Modular backend structure with authentication, validation, and Docker setup for rapid API deployment. | `FastAPI` • `pytest` • `Docker` |
+
+🧩 Explore all projects → [GitHub Repositories](https://github.com/shivani1709-bot?tab=repositories)
+
+---
+
+## 💡 Skills Snapshot
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+**Data & Analytics:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+
+---
+
+## 💬 Testimonials
+
+> “Shivani has a strong grasp of backend architecture and reliably delivers production-ready APIs.”  
+> — Former Manager, Hypersonix
+
+> “Her optimizations around event-driven billing flows significantly improved our platform’s efficiency.”  
+> — Tech Lead, Verizon
+
+---
+
+## 🌱 Currently Exploring
+- ML model deployment with FastAPI  
+- Data storytelling & visualization techniques  
+- Building an AI-powered analytics dashboard
+
+---
+
+## 🤝 Let’s Connect
+📫 **Email:** [shivanimandora@gmail.com](mailto:shivanimandora@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/shivani-mandora-671b8691](https://www.linkedin.com/in/shivani-mandora-671b8691/)  
+🌐 **Portfolio:** [shivani1709-bot.github.io](https://shivani1709-bot.github.io)
+
+---
+
+⭐ *“Code with clarity. Build with purpose.”*
